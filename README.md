@@ -42,8 +42,9 @@ To set up the project, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/consciousness-system.git
-cd consciousness-system
+git clone https://github.com/K1m1k/Scintilla.git
+cd Scintilla
+
 
 Create a virtual environment (optional but recommended):
 
@@ -58,7 +59,6 @@ Install dependencies:
 pip install -r requirements.txt
 
 Obtain API keys for online data fetching:
-
 Sign up for a Google Custom Search API key and replace YOUR_GOOGLE_API_KEY and YOUR_CSE_ID in the code.
 
 Run the project:
